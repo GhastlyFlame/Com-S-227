@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26ac9c52-2728-4b9f-b6bc-2d1ed086dd0d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UR4yjDl4q1TQKUBdTHi3l3EZz9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/cs228hw4/game" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\haadi\Dropbox\CS228hw4\src\cs228hw4\game" />
+      <recent name="C:\Users\haadi\Dropbox\CS228hw4\src\cs228hw4\graph" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cs228hw4.game" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\haadi\Dropbox\CS228hw4" />
+      <recent name="C:\Users\haadi\Dropbox\CS228hw4\src\cs228hw4\graph" />
+      <recent name="C:\Users\haadi\Dropbox\CS228hw4\src\cs228hw4\game" />
+      <recent name="C:\Users\haadi\Dropbox\CS228hw4\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="galaxycommander.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/galaxycommander.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.galaxycommander.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26ac9c52-2728-4b9f-b6bc-2d1ed086dd0d" name="Default Changelist" comment="" />
+      <created>1575306329800</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575306329800</updated>
+      <workItem from="1575306333395" duration="42000" />
+      <workItem from="1575306498935" duration="650000" />
+      <workItem from="1575501686497" duration="930000" />
+      <workItem from="1575866435580" duration="603000" />
+      <workItem from="1575919287273" duration="5336000" />
+      <workItem from="1575929220045" duration="13039000" />
+      <workItem from="1575951623632" duration="13458000" />
+      <workItem from="1576039755127" duration="2513000" />
+      <workItem from="1576083614643" duration="2413000" />
+      <workItem from="1576094572292" duration="2363000" />
+      <workItem from="1576108652258" duration="107000" />
+      <workItem from="1576108785631" duration="598000" />
+      <workItem from="1581625507481" duration="93000" />
+      <workItem from="1581625623419" duration="42000" />
+      <workItem from="1581703260317" duration="88000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="21" key="#Project_Structure" timestamp="1575866471737">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="21" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1575866471737" />
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575943082387">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1575943082387" />
+    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser" timestamp="1575866866957">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1575866866957" />
+    <state x="413" y="110" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1576023061444">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="110" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1366.728/1366.-600.1920.1160@0.0.1366.728" timestamp="1576023061444" />
+    <state x="389" y="104" key="FileChooserDialogImpl" timestamp="1576020032626">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="389" y="104" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1160@0.0.1366.728" timestamp="1576020032626" />
+    <state x="389" y="104" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1575931426529" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1581625601696">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-600.1920.1160@0.0.1366.728" timestamp="1576028893215" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1160@0.0.1366.728" timestamp="1576020493370" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581625601696" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1581625601696">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728/1366.-600.1920.1160@0.0.1366.728" timestamp="1576028893214" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1160@0.0.1366.728" timestamp="1576020493370" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581625601696" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1581625601696">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728/1366.-600.1920.1160@0.0.1366.728" timestamp="1576028893214" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1160@0.0.1366.728" timestamp="1576020493370" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581625601696" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1581625601696">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728/1366.-600.1920.1160@0.0.1366.728" timestamp="1576028893214" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1160@0.0.1366.728" timestamp="1576020493370" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581625601696" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1576025691660">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728/1366.-600.1920.1160@0.0.1366.728" timestamp="1576025691660" />
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728/1366.0.1920.1160@0.0.1366.728" timestamp="1576020035855" />
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1575951832230" />
+    <state x="0" y="0" width="1366" height="728" key="com.intellij.ide.util.TipDialog" timestamp="1575306501315">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" width="1366" height="728" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1575306501315" />
+    <state x="629" y="6" width="737" height="722" key="find.popup" timestamp="1576095791830">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="629" y="6" width="737" height="722" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1576095791830" />
+    <state x="680" y="164" key="run.anything.popup" timestamp="1575932192040">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="680" y="164" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1575932192040" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1575943100925">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1575943100925" />
+  </component>
+</project>
