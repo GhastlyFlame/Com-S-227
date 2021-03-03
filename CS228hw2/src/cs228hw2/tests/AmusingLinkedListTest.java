@@ -268,7 +268,7 @@ class AmusingLinkedListTest {
 		
 		// Sanity check all data
 		for (int i = 0; i < 5; i++) {
-			assertEquals(data[i], a.getNodeAtIndex(i).getData(), String.format(message, i, data[i]));
+			assertEquals(data[i], (int)a.getNodeAtIndex(i).getData(), String.format(message, i, data[i]));
 		}
 		
 		String message2;
@@ -302,11 +302,12 @@ class AmusingLinkedListTest {
 		String message = "Value at index %d should be %d";
 		AmusingLinkedList<Integer> a = new AmusingLinkedList<Integer>();
 		Integer[] data = {0, 10, 20, 30, 40};
+		
 		assertTrue(a.addAll(0, Arrays.asList(data)));
 		
 		// Sanity check all data
 		for (int i = 0; i < 5; i++) {
-			assertEquals(data[i], a.getNodeAtIndex(i).getData(), String.format(message, i, data[i]));
+			assertEquals(data[i], (int)a.getNodeAtIndex(i).getData(), String.format(message, i, data[i]));
 		}
 		
 		String message2;
@@ -705,7 +706,7 @@ class AmusingLinkedListTest {
 		message2 = "Elem 4->prev should point to elem 2";
 		assertSame(a.getNodeAtIndex(2), a.getNodeAtIndex(4).getPrev(), message2);
 		
-		assertEquals(0, (int)a.remove(0));
+		assertEquals(0,a.remove(0));
 		assertEquals(4, a.size());
 		assertEquals(1, (int)a.getNodeAtIndex(0).getData());
 		assertEquals(2, (int)a.getNodeAtIndex(1).getData());
@@ -772,11 +773,11 @@ class AmusingLinkedListTest {
 		
 		a.removeAll(Arrays.asList(remove));
 		
-		assertEquals(00, (int)a.getNodeAtIndex(0).getData());
-		assertEquals(10, (int)a.getNodeAtIndex(1).getData());
-		assertEquals(20, (int)a.getNodeAtIndex(2).getData());
-		assertEquals(30, (int)a.getNodeAtIndex(3).getData());
-		assertEquals(40, (int)a.getNodeAtIndex(4).getData());
+		assertEquals(00, a.getNodeAtIndex(0).getData());
+		assertEquals(10, a.getNodeAtIndex(1).getData());
+		assertEquals(20, a.getNodeAtIndex(2).getData());
+		assertEquals(30, a.getNodeAtIndex(3).getData());
+		assertEquals(40, a.getNodeAtIndex(4).getData());
 		assertEquals(5, a.size());
 		
 		String message2;
@@ -819,8 +820,8 @@ class AmusingLinkedListTest {
 		
 		assertEquals(8, a.size());
 		assertTrue(a.retainAll(Arrays.asList(retain)));
-		assertEquals(20, (int)a.get(0));
-		assertEquals(30, (int)a.get(1));
+		assertEquals(20, a.get(0));
+		assertEquals(30, a.get(1));
 		assertEquals(2, a.size());
 		
 	}
